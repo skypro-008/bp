@@ -4,4 +4,3 @@ class Article:
     def __init__(self):
         """ Конструктор для статьи """
         pass
-    
